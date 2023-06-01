@@ -1,0 +1,79 @@
+
+
+
+
+{
+    "cards":[
+        {
+            "title":"R$2,800",
+            "subtitle":"Total Faturamento"
+            
+        },
+        {
+            "title":"238",
+            "subtitle":"Total Pedidos"
+            
+        },
+        {
+            "title":"160",
+            "subtitle":"Clientes Cadastrados"
+            
+        }
+    ],
+    "mostCustomers": {
+    
+            "boardTitle": "Clientes que mais compraram",
+            "content": [
+                {   
+                    "icon": "https://s2-g1.glbimg.com/8XZHaKHPUwgkDof9xNwwXU80KbM=/0x152:545x912/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/a/6NxJ8MQNKoZqT6R6KnXw/2023-03-21t131656z-54649049-rc2cvz9lbdgd-rtrmadp-3-crime-virginia-police.jpg",
+                    "name": "João Paulo",
+                    "orders": "35 Pedidos"
+                },
+                {
+                    "icon": "https://www.aurum.com.br/blog/wp-content/uploads/2021/08/aline-ribeiro-pereira-colunista-aurum.jpg",
+                    "name": "Marina Pereira",
+                    "orders": "58 Pedidos"
+                },
+                {
+                    "icon": "https://media.licdn.com/dms/image/C4E03AQHtxOo7TvKyXA/profile-displayphoto-shrink_800_800/0/1657239050000?e=2147483647&v=beta&t=doVOAsQyxHLZavPu6PIRoOCX1UMg3I5cneo81_alfBU",
+                    "name": "Daniel Santos",
+                    "orders": "29 Pedidos"
+                }
+            ]
+    },
+    "mostDishes":{
+        "boardTitle": "Pratos mais vendidos do dia",
+        "content": [
+            {
+                "icon": "https://st.depositphotos.com/1003814/5052/i/950/depositphotos_50523105-stock-photo-pizza-with-tomatoes.jpg",
+                "name": "Pizza",
+                "orders": "Pedido 56x",
+                "price": "R$ 29,99"
+            },
+            {
+                "icon": "https://www.sabornamesa.com.br/media/k2/items/cache/8212207f146778f83156ffc204ca380c_XL.jpg",
+                "name": "Bolo",
+                "orders": "Pedido 50x",
+                "price": "R$ 19,99"
+            },
+            {
+                "icon": "https://receitinhas.com.br/wp-content/uploads/2022/06/cachorro-quente-tradicional-2.jpg",
+                "name": "Cachorro quente",
+                "orders": "Pedido 30x",
+                "price": "R$ 10,00"
+            },
+            {
+                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMlNEsYbUWlPs4zXsImMHAX-ZAo_0h5gdOQ&usqp=CAU",
+                "name": "Milkshake",
+                "orders": "Pedido 24x",
+                "price": "R$ 12,00"
+            },
+            {
+                "icon": "https://classic.exame.com/wp-content/uploads/2020/05/mafe-studio-LV2p9Utbkbw-unsplash-1.jpg?quality=70&strip=info&w=1024",
+                "name": "Hamburguer",
+                "orders": "Pedido 39x",
+                "price": "R$ 16,00"
+            }
+        ]
+    }
+}

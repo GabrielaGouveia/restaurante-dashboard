@@ -1,0 +1,199 @@
+{
+  "customers":{
+      "columnsData": [{
+          "title": "ClienteID",
+          "dataIndex": "clientID",
+          "key": "clientID"
+      },
+      {
+          "title": "Nome",
+          "dataIndex": "name",
+          "key": "name"
+      },
+      {
+          "title": "Data de Cadastro",
+          "dataIndex": "registerData",
+          "key": "registerData"
+      },
+      {
+          "title": "Quantidade de Peidos",
+          "dataIndex": "ordersAmount",
+          "key": "ordersAmount"
+      },
+      {
+          "title": "Endereço",
+          "dataIndex": "address",
+          "key": "address"
+      },
+      {
+          "title": "Telefone",
+          "dataIndex": "phone",
+          "key": "phone"
+      }
+      ], 
+      "contentData": [
+          {
+            "clientID": "#09121",
+            "name": "Carlos",
+            "registerData": "14/04/2023",
+            "ordersAmount": "20",
+            "address": "Rua da Aurora, 130 - Recife, PE",
+            "phone": "(81) 995584932"
+          },
+          {
+            "clientID": "#09122",
+            "name": "Ana",
+            "registerData": "10/03/2023",
+            "ordersAmount": "12",
+            "address": "Av. Boa Viagem, 1000 - Recife, PE",
+            "phone": "(81) 995543219"
+          },
+          {
+            "clientID": "#09123",
+            "name": "Pedro",
+            "registerData": "25/02/2023",
+            "ordersAmount": "5",
+            "address": "Rua do Apolo, 500 - Recife, PE",
+            "phone": "(81) 995577661"
+          },
+          {
+            "clientID": "#09124",
+            "name": "Mariana",
+            "registerData": "07/05/2023",
+            "ordersAmount": "8",
+            "address": "Rua da Hora, 300 - Recife, PE",
+            "phone": "(81) 995512345"
+          },
+          {
+            "clientID": "#09125",
+            "name": "Ricardo",
+            "registerData": "18/01/2023",
+            "ordersAmount": "15",
+            "address": "Av. Conde da Boa Vista, 700 - Recife, PE",
+            "phone": "(81) 995577992"
+          },
+          {
+            "clientID": "#09126",
+            "name": "Camila",
+            "registerData": "29/03/2023",
+            "ordersAmount": "3",
+            "address": "Rua da Moeda, 50 - Recife, PE",
+            "phone": "(81) 995599887"
+          },
+          {
+            "clientID": "#09127",
+            "name": "Lucas",
+            "registerData": "12/02/2023",
+            "ordersAmount": "10",
+            "address": "Av. Caxangá, 1500 - Recife, PE",
+            "phone": "(81) 995532178"
+          },
+          {
+            "clientID": "#09128",
+            "name": "Fernanda",
+            "registerData": "04/04/2023",
+            "ordersAmount": "6",
+            "address": "Rua do Bom Jesus, 250 - Recife, PE",
+            "phone": "(81) 995594663"
+          },
+          {
+            "clientID": "#09129",
+            "name": "Gustavo",
+            "registerData": "22/03/2023",
+            "ordersAmount": "9",
+            "address": "Av. Rio Branco, 800 - Recife, PE",
+            "phone": "(81) 995502311"
+          },
+          {
+            "clientID": "#09130",
+            "name": "Isabela",
+            "registerData": "15/05/2023",
+            "ordersAmount": "4",
+            "address": "Rua do Sol, 90 - Recife, PE",
+            "phone": "(81) 995569008"
+          },
+          {
+            "clientID": "#09131",
+            "name": "Tiago",
+            "registerData": "28/01/2023",
+            "ordersAmount": "7",
+            "address": "Av. Guararapes, 1200 - Recife, PE",
+            "phone": "(81) 995590456"
+          },
+          {
+            "clientID": "#09132",
+            "name": "Larissa",
+            "registerData": "09/03/2023",
+            "ordersAmount": "2",
+            "address": "Rua do Sossego, 80 - Recife, PE",
+            "phone": "(81) 995533789"
+          },
+          {
+            "clientID": "#09133",
+            "name": "José",
+            "registerData": "20/02/2023",
+            "ordersAmount": "11",
+            "address": "Av. Rui Barbosa, 600 - Recife, PE",
+            "phone": "(81) 995577014"
+          },
+          {
+            "clientID": "#09134",
+            "name": "Amanda",
+            "registerData": "06/05/2023",
+            "ordersAmount": "9",
+            "address": "Rua das Ninfas, 70 - Recife, PE",
+            "phone": "(81) 995512938"
+          },
+          {
+            "clientID": "#09135",
+            "name": "Diego",
+            "registerData": "17/01/2023",
+            "ordersAmount": "13",
+            "address": "Av. Agamenon Magalhães, 1100 - Recife, PE",
+            "phone": "(81) 995577567"
+          },
+          {
+            "clientID": "#09136",
+            "name": "Renata",
+            "registerData": "30/03/2023",
+            "ordersAmount": "5",
+            "address": "Rua da Soledade, 180 - Recife, PE",
+            "phone": "(81) 995533564"
+          },
+          {
+            "clientID": "#09137",
+            "name": "Bruno",
+            "registerData": "11/02/2023",
+            "ordersAmount": "9",
+            "address": "Av. Abdias de Carvalho, 1400 - Recife, PE",
+            "phone": "(81) 995578798"
+          },
+          {
+            "clientID": "#09138",
+            "name": "Juliana",
+            "registerData": "02/04/2023",
+            "ordersAmount": "6",
+            "address": "Rua da Concórdia, 200 - Recife, PE",
+            "phone": "(81) 995589781"
+          },
+          {
+            "clientID": "#09139",
+            "name": "Marcelo",
+            "registerData": "24/03/2023",
+            "ordersAmount": "8",
+            "address": "Av. Marechal Mascarenhas de Morais, 1600 - Recife, PE",
+            "phone": "(81) 995522467"
+          },
+          {
+            "clientID": "#09140",
+            "name": "Carolina",
+            "registerData": "09/05/2023",
+            "ordersAmount": "3",
+            "address": "Rua da Amizade, 60 - Recife, PE",
+            "phone": "(81) 995532564"
+          }
+        ]
+        
+
+}
+}

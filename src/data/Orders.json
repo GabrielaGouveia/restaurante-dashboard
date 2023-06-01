@@ -1,0 +1,230 @@
+{
+    "ordersCards":[
+        {
+            "title":"238",
+            "subtitle":"Total Pedidos"
+            
+        },
+        {
+            "title":"50",
+            "subtitle":"Pedidos Local"
+            
+        },
+        {
+            "title":"50",
+            "subtitle":"Pedidos Delivery"
+            
+        }
+    ],
+    "ordersHistory": {
+        "tableTitle": "Histórico de Pedidos",
+        "columnsData": [{
+            "title": "ID",
+            "dataIndex": "id",
+            "key": "id"
+        },
+        {
+            "title": "Cliente",
+            "dataIndex": "customer",
+            "key": "customer"
+        },
+        {
+            "title": "Pedido",
+            "dataIndex": "order",
+            "key": "order"
+        },
+        {
+            "title": "Preço",
+            "dataIndex": "price",
+            "key": "price"
+        },
+        {
+            "title": "Data",
+            "dataIndex": "date",
+            "key": "date"
+        }],
+        "contentData":[
+        {
+            "id": "92109",
+            "customer": "João",
+            "order": "Pizza",
+            "price": "R$ 50,00",
+            "date": "10/10/2023 - 20:00"
+        },
+        {
+            "id": "47382",
+            "customer": "Maria",
+            "order": "Burger",
+            "price": "R$ 35,00",
+            "date": "09/25/2023 - 18:30"
+        },
+        {
+            "id": "82973",
+            "customer": "Pedro",
+            "order": "Salad",
+            "price": "R$ 20,00",
+            "date": "11/05/2023 - 12:15"
+        },
+        {
+            "id": "64529",
+            "customer": "Ana",
+            "order": "Pasta",
+            "price": "R$ 40,00",
+            "date": "12/15/2023 - 19:45"
+        },
+        {
+            "id": "21645",
+            "customer": "Lucas",
+            "order": "Sushi",
+            "price": "R$ 55,00",
+            "date": "08/10/2023 - 21:30"
+        },
+        {
+            "id": "34897",
+            "customer": "Luisa",
+            "order": "Pizza",
+            "price": "R$ 50,00",
+            "date": "10/18/2023 - 17:45"
+        },
+        {
+            "id": "78463",
+            "customer": "Fernanda",
+            "order": "Burger",
+            "price": "R$ 40,00",
+            "date": "09/02/2023 - 13:10"
+        },
+        {
+            "id": "58274",
+            "customer": "Ricardo",
+            "order": "Salad",
+            "price": "R$ 20,00",
+            "date": "11/29/2023 - 19:20"
+        },
+        {
+            "id": "12579",
+            "customer": "Paula",
+            "order": "Pasta",
+            "price": "R$ 40,00",
+            "date": "12/23/2023 - 14:50"
+        },
+        {
+            "id": "70984",
+            "customer": "Gabriel",
+            "order": "Sushi",
+            "price": "R$ 55,00",
+            "date": "08/05/2023 - 20:45"
+        },
+        {
+            "id": "96532",
+            "customer": "Mariana",
+            "order": "Pizza",
+            "price": "R$ 50,00",
+            "date": "10/07/2023 - 19:15"
+        },
+        {
+            "id": "18746",
+            "customer": "Rodrigo",
+            "order": "Burger",
+            "price": "R$ 35,00",
+            "date": "09/14/2023 - 15:40"
+        },
+        {
+            "id": "27489",
+            "customer": "Juliana",
+            "order": "Salad",
+            "price": "R$ 20,00",
+            "date": "11/17/2023 - 17:30"
+        },
+        {
+            "id": "50673",
+            "customer": "Bruna",
+            "order": "Pasta",
+            "price": "R$ 40,00",
+            "date": "12/02/2023 - 20:10"
+        },
+        {
+            "id": "63819",
+            "customer": "Vitor",
+            "order": "Sushi",
+            "price": "R$ 55,00",
+            "date": "08/25/2023 - 12:20"
+        },
+        {
+            "id": "43276",
+            "customer": "Isabela",
+            "order": "Pizza",
+            "price": "R$ 50,00",
+            "date": "10/15/2023 - 18:45"
+        },
+        {
+            "id": "93285",
+            "customer": "Henrique",
+            "order": "Burger",
+            "price": "R$ 35,00",
+            "date": "09/30/2023 - 21:00"
+        },
+        {
+            "id": "79513",
+            "customer": "Luiza",
+            "order": "Salad",
+            "price": "R$ 20,00",
+            "date": "11/10/2023 - 13:45"
+        },
+        {
+            "id": "36582",
+            "customer": "Eduardo",
+            "order": "Pasta",
+            "price": "R$ 40,00",
+            "date": "12/19/2023 - 19:00"
+        },
+        {
+            "id": "24678",
+            "customer": "Camila",
+            "order": "Sushi",
+            "price": "R$ 55,00",
+            "date": "08/15/2023 - 16:30"
+        }
+    ]
+    },
+    "bestSellingDishes":{
+        "tableTitle": "Pratos mais vendidos",
+        "columnsData": [{
+            "title": " ",
+            "dataIndex": "position",
+            "key": "position"
+        },
+        {
+            "title": "Prato",
+            "dataIndex": "dish",
+            "key": "dish"
+        },
+        {
+            "title": "Quantidade",
+            "dataIndex": "quantity",
+            "key": "quantity"
+        }], 
+        "contentData": [{
+            "position": "1",
+            "dish": "Pizza",
+            "quantity": "400"
+        },{
+            "position": "2",
+            "dish": "Burger",
+            "quantity": "350"
+        },{
+            "position": "3",
+            "dish": "Salad",
+            "quantity": "300"
+        },{
+            "position": "4",
+            "dish": "Pasta",
+            "quantity": "250"
+        },{
+            "position": "5",
+            "dish": "Sushi",
+            "quantity": "200"
+        }]
+
+    }
+
+}

@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": "29,99",
+      "type": "Prato Principal",
+      "description": "Pizza de calabresa com catupiry"
+    },
+    {
+      "id": 2,
+      "name": "Lasanha",
+      "price": "25,99",
+      "type": "Prato Principal",
+      "description": "Lasanha à bolonhesa gratinada"
+    },
+    {
+      "id": 3,
+      "name": "Salada Caprese",
+      "price": "15,99",
+      "type": "Entrada",
+      "description": "Tomate, muçarela de búfala e manjericão fresco"
+    },
+    {
+      "id": 4,
+      "name": "Camarão à Baiana",
+      "price": "35,99",
+      "type": "Prato Principal",
+      "description": "Camarões refogados no dendê com pimentões"
+    },
+    {
+      "id": 5,
+      "name": "Tiramisu",
+      "price": "12,99",
+      "type": "Sobremesa",
+      "description": "Sobremesa italiana com café, cacau e queijo mascarpone"
+    },
+    {
+      "id": 6,
+      "name": "Risoto de Cogumelos",
+      "price": "28,99",
+      "type": "Prato Principal",
+      "description": "Risoto cremoso com cogumelos frescos e queijo parmesão"
+    },
+    {
+      "id": 7,
+      "name": "Brusqueta",
+      "price": "9,99",
+      "type": "Entrada",
+      "description": "Pão italiano grelhado com tomate, alho e manjericão"
+    },
+    {
+      "id": 8,
+      "name": "Panna Cotta",
+      "price": "10,99",
+      "type": "Sobremesa",
+      "description": "Sobremesa italiana de creme de leite com calda de frutas vermelhas"
+    },
+    {
+      "id": 9,
+      "name": "Salmão Grelhado",
+      "price": "32,99",
+      "type": "Prato Principal",
+      "description": "Salmão grelhado com molho de limão e ervas finas"
+    },
+    {
+      "id": 10,
+      "name": "Ceviche",
+      "price": "19,99",
+      "type": "Entrada",
+      "description": "Peixe cru marinado em suco de limão com pimenta"
+    },
+    {
+      "id": 11,
+      "name": "Mousse de Chocolate",
+      "price": "8,99",
+      "type": "Sobremesa",
+      "description": "Mousse cremoso de chocolate meio amargo"
+    },
+    {
+      "id": 12,
+      "name": "Bife à Parmegiana",
+      "price": "26,99",
+      "type": "Prato Principal",
+      "description": "Bife empanado coberto com molho de tomate e queijo derretido"
+    },
+    {
+      "id": 13,
+      "name": "Salada Caesar",
+      "price": "16,99",
+      "type": "Entrada",
+      "description": "Alface romana, croutons, parmesão e molho caesar"
+    },
+    {
+      "id": 14,
+      "name": "Pudim de Leite",
+      "price": "7,99",
+      "type": "Sobremesa",
+      "description": "Pudim de leite condensado tradicional"
+    },
+    {
+      "id": 15,
+      "name": "Linguine Carbonara",
+      "price": "23,99",
+      "type": "Prato Principal",
+      "description": "Massa italiana com molho à base de queijo, ovos e pancetta"
+    },
+    {
+      "id": 16,
+      "name": "Salada Grega",
+      "price": "14,99",
+      "type": "Entrada",
+      "description": "Tomate, pepino, cebola, azeitonas, queijo feta e azeite de oliva"
+    },
+    {
+      "id": 17,
+      "name": "Cheesecake",
+      "price": "11,99",
+      "type": "Sobremesa",
+      "description": "Torta de cream cheese com base de biscoito e cobertura de frutas vermelhas"
+    },
+    {
+      "id": 18,
+      "name": "Frango à Parmegiana",
+      "price": "24,99",
+      "type": "Prato Principal",
+      "description": "Filé de frango empanado coberto com molho de tomate e queijo derretido"
+    },
+    {
+      "id": 19,
+      "name": "Carpaccio",
+      "price": "18,99",
+      "type": "Entrada",
+      "description": "Finas fatias de carne crua temperadas com molho de mostarda e alcaparras"
+    },
+    {
+      "id": 20,
+      "name": "Mousse de Maracujá",
+      "price": "9,99",
+      "type": "Sobremesa",
+      "description": "Mousse cremoso de maracujá com calda de fruta da paixão"
+    }
+  ]
+  

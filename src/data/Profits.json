@@ -1,0 +1,23 @@
+{
+    "daily": {
+      "total": "R$ 10,99",
+      "local": "R$ 7,99",
+      "annual": "R$ 3299,99"
+    },
+    "weekly": {
+      "total": "R$ 69,99",
+      "local": "R$ 49,99",
+      "annual": "R$ 2599,99"
+    },
+    "monthly": {
+      "total": "R$ 299,99",
+      "local": "R$ 219,99",
+      "annual": "R$ 2399,99"
+    },
+    "yearly": {
+      "total": "R$ 2499,99",
+      "local": "R$ 1999,99",
+      "annual": "R$ 19999,99"
+    }
+  }
+  
