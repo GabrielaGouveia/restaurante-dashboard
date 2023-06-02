@@ -6,7 +6,6 @@ import { HomeOutlined, ReadOutlined, SolutionOutlined,TeamOutlined,LineChartOutl
 export const Navbar = () => {
   return (
     <>
-   
     <NavbarContainer>
         <NavbarLogoContainer>
             <NavbarLogo src="../../public/logo.png"/>
