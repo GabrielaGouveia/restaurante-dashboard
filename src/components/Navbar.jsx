@@ -1,5 +1,4 @@
-import React from 'react'
-import { NavLink } from 'react-router-dom'
+
 import { NavbarContainer, NavbarItems, NavbarOption, NavbarLink,} from '../assets/css/style'
 import { NavbarLogo, NavbarLogoContainer } from '../assets/css/componets.styled'
 import { HomeOutlined, ReadOutlined, SolutionOutlined,TeamOutlined,LineChartOutlined  } from '@ant-design/icons';
@@ -14,7 +13,7 @@ export const Navbar = () => {
         </NavbarLogoContainer>
         <NavbarItems>
             <NavbarOption>
-                <NavbarLink to="/dashboard"> <HomeOutlined /> &nbsp; DASHBOARD</NavbarLink>
+                <NavbarLink to="/"> <HomeOutlined /> &nbsp; DASHBOARD</NavbarLink>
             </NavbarOption>
             <NavbarOption>
                 <NavbarLink to="/menu"><ReadOutlined /> &nbsp; CARDÁPIO</NavbarLink>
