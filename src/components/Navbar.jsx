@@ -8,7 +8,7 @@ export const Navbar = () => {
     <>
     <NavbarContainer>
         <NavbarLogoContainer>
-            <NavbarLogo src="../../public/logo.png"/>
+            <NavbarLogo src="https://jailson-personal.s3.sa-east-1.amazonaws.com/images/restaurant-dashboard/logo.png"/>
         </NavbarLogoContainer>
         <NavbarItems>
             <NavbarOption>
