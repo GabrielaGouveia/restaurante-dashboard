@@ -16,7 +16,7 @@
           "key": "registerData"
       },
       {
-          "title": "Quantidade de Peidos",
+          "title": "Quantidade de Pedidos",
           "dataIndex": "ordersAmount",
           "key": "ordersAmount"
       },
